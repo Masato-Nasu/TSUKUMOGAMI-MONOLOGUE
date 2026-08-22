@@ -4,6 +4,10 @@
 
 身の回りの物を撮ると、その物に宿る付喪神が、誰にも聞かせるつもりのなかった独り言を一つだけ漏らすPWAです。
 
+<p align="center">
+  <img src="docs/screenshot.png" width="360" alt="付喪神の独り言で目薬が独り言を話している画面">
+</p>
+
 ## 公開アプリ
 
 [付喪神の独り言を開く](https://tsukumogami-monologue.sunny-seed-0354.chatgpt.site)
